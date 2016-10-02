@@ -1,0 +1,5 @@
+.idea/
+*.iml
+tecsinapse-data-io-samples.iml
+*/target/
+
