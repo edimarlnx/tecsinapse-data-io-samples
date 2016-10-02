@@ -14,7 +14,6 @@ public class ComposicaoRmsIbgeTest {
     @Test
     public void importarTest() throws Exception {
 
-        System.out.println("p1");
         File entrada = new File(ComposicaoRmsIbgeTest.class.getResource("/Composicao_RMs_RIDEs_AglomUrbanas_2010_07_31.xls").toURI());
 
         SpreadsheetParser<ComposicaoRmsIbge> parser = new SpreadsheetParser<>(ComposicaoRmsIbge.class, entrada);
