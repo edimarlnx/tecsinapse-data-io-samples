@@ -8,14 +8,14 @@
     <url>http://www.tecsinapse.com.br</url>
     <packaging>pom</packaging>
     <modules>
-        <module>sample-db-from-file</module>
+        <module>samples</module>
     </modules>
     <dependencies>
         <!-- Core da api -->
         <dependency>
             <groupId>br.com.tecsinapse</groupId>
             <artifactId>tecsinapse-data-io</artifactId>
-            <version>2.0.0</version>
+            <version>2.0.1-SNAPSHOT</version>
         </dependency>
         <!-- Converters para Java (8) Time -->
         <dependency>

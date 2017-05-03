@@ -1,4 +1,4 @@
-package br.com.tecsinapse.data.io.samples;
+package br.com.tecsinapse.data.io.samples.model;
 
 
 import br.com.tecsinapse.exporter.annotation.TableCellMapping;
